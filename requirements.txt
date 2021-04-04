@@ -1,0 +1,10 @@
+cycler
+kiwisolver
+matplotlib
+numpy
+Pillow
+pyparsing
+python-dateutil
+six
+torch
+tqdm
